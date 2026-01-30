@@ -1,15 +1,15 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://linktree.puipuiminis.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Linktree Pui Pui Minis"
+copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-   name = "PuiPui Minis"
+   name = "Pui Pui Minis"
    headline = "Nos especializamos en pintar miniaturas y creamos mundos infinitos."
    image = "img/logo.png"  # path relative to static directory
 
@@ -22,6 +22,10 @@ disableKinds = ["taxonomy", "term"]
     { whatsapp = "https://wa.me/5563303533" },
     { email = "mailto:puipuiminis@gmail.com" },
     { link = "https://www.puipuiminis.com/" },
+
+
+    # Custom link
+    #{ github = { href = "https://github.com/jpanther/lynx", text = "GitHub Project" } }
 
     # { pinterest = "https://pinterest.com/username" },
     # { mastodon = "https://mastodon.instance/@username" },
