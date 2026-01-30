@@ -1,0 +1,11 @@
+.link-copa-puipui {
+    background: rgb(180, 117, 58);
+    background: linear-gradient(
+      35deg,
+      rgb(219, 96, 25) 0%,
+      rgb(239, 229, 252) 25%,
+      rgba(252, 176, 69) 30%,
+      rgb(219, 96, 25) 55%,
+      rgba(252, 176, 69) 100%
+    );
+  }

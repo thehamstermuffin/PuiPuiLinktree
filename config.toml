@@ -18,14 +18,10 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "https://instagram.com/puipuiminis32" },
     { facebook = "https://www.facebook.com/puipuiminis" },
     { tiktok = "https://tiktok.com/@puipuiminis" },
-
     { whatsapp = "https://wa.me/5563303533" },
     { email = "mailto:puipuiminis@gmail.com" },
+    { copa-puipui = { href = "https://copapuipui.wordpress.com/una-tirada-de-gacha-abril-2024/", text = "Copa Pui Pui"} },
     { link = "https://www.puipuiminis.com/" },
-
-
-    # Custom link
-    #{ github = { href = "https://github.com/jpanther/lynx", text = "GitHub Project" } }
 
     # { pinterest = "https://pinterest.com/username" },
     # { mastodon = "https://mastodon.instance/@username" },
