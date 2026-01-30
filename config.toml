@@ -9,37 +9,48 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+   name = "PuiPui Minis"
+   headline = "Nos especializamos en pintar miniaturas y creamos mundos infinitos."
+   image = "img/logo.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+
+    { instagram = "https://instagram.com/puipuiminis32" },
+    { facebook = "https://www.facebook.com/puipuiminis" },
+    { tiktok = "https://tiktok.com/@puipuiminis" },
+
+    { whatsapp = "https://wa.me/5563303533" },
+    { email = "mailto:puipuiminis@gmail.com" },
+    { link = "https://www.puipuiminis.com/" },
+
+    # { pinterest = "https://pinterest.com/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { bluesky = "https://bsky.app/profile/username" },
+    # { twitter = "https://twitter.com/username" },
+    # { x = "https://x.com/username" },
+    # { youtube = "https://youtube.com/username" },
+
+
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
-    # { bluesky = "https://bsky.app/profile/username" },
+
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
-    # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
-    # { pinterest = "https://pinterest.com/username" },
     # { reddit = "https://reddit.com/user/username" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
@@ -50,13 +61,8 @@ disableKinds = ["taxonomy", "term"]
     # { steam = "https://steamcommunity.com/profiles/userid" },
     # { telegram = "https://t.me/username" },
     # { threads = "https://threads.com/username" },
-    # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    # { twitter = "https://twitter.com/username" },
-    # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
   ]
 
 [module]
