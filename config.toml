@@ -1,5 +1,5 @@
 # baseURL = "https://linktree.puipuiminis.com/"
-languageCode = "en"
+languageCode = "es-mx"
 defaultContentLanguage = "en"
 
 title = "Linktree Pui Pui Minis"
@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
    name = "Pui Pui Minis"
    headline = "Nos especializamos en pintar miniaturas y creamos mundos infinitos."
-   image = "img/logo.png"  # path relative to static directory
+   image = "logo.jpg"  # path relative to static directory
 
   links = [
 
