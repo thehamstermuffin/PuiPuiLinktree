@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term"]
     { copa-puipui = { href = "https://copapuipui.wordpress.com/una-tirada-de-gacha-abril-2024/", text = "Copa Pui Pui"} },
     { link = "https://www.puipuiminis.com/" },
 
-    # { pinterest = "https://pinterest.com/username" },
+    { pinterest = "https://pinterest.com/puipuiminis/_created" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { bluesky = "https://bsky.app/profile/username" },
     # { twitter = "https://twitter.com/username" },
