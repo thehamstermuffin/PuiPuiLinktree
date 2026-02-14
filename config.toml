@@ -3,7 +3,7 @@ languageCode = "es-mx"
 defaultContentLanguage = "en"
 
 title = "Linktree Pui Pui Minis"
-copyright = "&copy; 2026 Pui Pui Minis"
+copyright = "&copy; 2026 Pui Pui Minis 🦔"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
