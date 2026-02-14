@@ -1,9 +1,9 @@
-# baseURL = "https://linktree.puipuiminis.com/"
+baseURL = "https://linktree.puipuiminis.com/"
 languageCode = "es-mx"
 defaultContentLanguage = "en"
 
 title = "Linktree Pui Pui Minis"
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "&copy; 2026 Pui Pui Minis"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]

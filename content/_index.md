@@ -1,5 +1,5 @@
 +++
-description = "Información adicional sobre nosotros."
+description = "Encuentranos en:"
 +++
 
 Expertos en pintura de miniaturas
